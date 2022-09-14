@@ -1,0 +1,4 @@
+# c-snake
+A simple snake for linux made in c to demonstrate frequently used programming principles
+
+Build with command `./build.sh` and run with command `./snake`
