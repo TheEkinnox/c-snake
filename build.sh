@@ -1,0 +1,1 @@
+gcc main.c snake.c -Wall -Wextra -Wshadow -lncurses -o snake
