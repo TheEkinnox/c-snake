@@ -1,4 +1,5 @@
-# c-snake
-A simple snake for linux made in c to demonstrate frequently used programming principles
+A simple snake for linux made in c to demonstrate common programming principles
 
 Build with command `./build.sh` and run with command `./snake`
+
+NOTE : GCC is required to use `./build.sh` it can be installed with command `sudo apt install gcc`
