@@ -1,5 +1,15 @@
 A simple snake for linux made in c to demonstrate common programming principles
 
-Build with command `./build.sh` and run with command `./snake`
+Build with command `make` (or `./build.sh` if makefile is not available) and run with command `./snake`
 
-NOTE : GCC is required to use `./build.sh` it can be installed with command `sudo apt install gcc`
+NOTE : GCC is required to build. It can be installed with command `sudo apt install gcc`
+
+HOW TO PLAY:
+
+Score as much points as you can by eating apples (represented by a 'x').
+If your head collides with the edges or your tail, you lose.
+
+- w: move up
+- a: move left
+- s: move down
+- d: move right
